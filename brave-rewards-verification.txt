@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: iamishfaq07.github.io
+Token: dfbf220ef4374510cd04e3b31828330f04ba2f3a29d6c989d9f2f5e86e58b1e6
